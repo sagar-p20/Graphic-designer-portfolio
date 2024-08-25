@@ -2,6 +2,8 @@
 
 This project is a personal portfolio website designed to showcase my skills, experience, and projects. It's a single-page website that is fully responsive, meaning it looks great on both desktop and mobile devices.
 
+#website link:- https://idyllic-seahorse-5b526a.netlify.app/
+
 ## Sections
 
 1. **Profile Section**: 
